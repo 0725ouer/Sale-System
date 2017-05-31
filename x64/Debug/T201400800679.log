@@ -1,0 +1,26 @@
+﻿  stdafx.cpp
+  T201400800679View.cpp
+c:\users\kunkun\desktop\销售系统\t201400800679\t201400800679view.cpp(84): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+  T201400800679Doc.cpp
+  T201400800679.cpp
+  RENDIS.cpp
+c:\users\kunkun\desktop\销售系统\t201400800679\rendis.cpp(210): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(346): note: 参见“strncpy”的声明
+c:\users\kunkun\desktop\销售系统\t201400800679\rendis.cpp(395): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(346): note: 参见“strncpy”的声明
+c:\users\kunkun\desktop\销售系统\t201400800679\rendis.cpp(449): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\kunkun\desktop\销售系统\t201400800679\rendis.cpp(512): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\kunkun\desktop\销售系统\t201400800679\rendis.cpp(574): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\kunkun\desktop\销售系统\t201400800679\rendis.cpp(631): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(346): note: 参见“strncpy”的声明
+c:\users\kunkun\desktop\销售系统\t201400800679\rendis.cpp(691): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\kunkun\desktop\销售系统\t201400800679\rendis.cpp(713): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  MainFrm.cpp
+  DLGRENX.cpp
+  DLGREN.cpp
+  DLGKU.cpp
+  DLGINPUT.cpp
+  DLGHUO.cpp
+  正在生成代码...
+  T201400800679.vcxproj -> C:\Users\kunkun\Desktop\销售系统\x64\Debug\T201400800679.exe
